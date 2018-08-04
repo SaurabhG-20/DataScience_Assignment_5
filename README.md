@@ -11,7 +11,8 @@ This repository belongs to problems stated in Assignment 5
       verbs=["play","watch"]
       objects=["Baseball","Cricket"]
       
-# Output should come as below:
+  Output should come as below:
+  
   Americans play Baseball.
   Americans play Cricket.
   Americans watch Baseball.
