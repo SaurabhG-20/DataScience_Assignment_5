@@ -21,3 +21,8 @@ This repository belongs to problems stated in Assignment 5
   Indians play Cricket.
   Indians watch Baseball.
   Indians watch Cricket.
+
+
+# Note :
+1. Please refer Screenshot directory for output of Screenshot 
+2. Please refer Sourcecode directory for Pyhton Sourcecode file
